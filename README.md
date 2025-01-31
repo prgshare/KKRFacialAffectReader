@@ -19,8 +19,7 @@ KKR-FAR is easy to use and will be helpful for the analysis of the estimation re
 
 ## How to use
 Currently, KKR-FAR works only on 64-bit Windows (Windows 10 or later).
-Windows binary of KKR-FAR can be found [here](http://mmde.is.kit.ac.jp/KKR-FER.zip).
-We are preparing to provide source codes of KKR-FER.
+Windows binary of KKR-FAR can be found [here](http://mmde.is.kit.ac.jp/KKR-FER.zip) (We are preparing to provide source codes of KKR-FER).
 
 Because KKR-FAR depends on [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace), the following materials are required:
 
