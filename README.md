@@ -16,3 +16,17 @@ After the estimation, KKR-FAR summarizes the estimation results as shown in the 
 
 KKR-FAR is easy to use and will be helpful for the analysis of the estimation result of valence and arousal.
 "KKR" stands for the affiliations of the developers; Kyoto Institute of Technology, KOHINATA Limited Liability Company, and RIKEN.
+
+## How to use
+Currently, KKR-FAR works only on 64-bit Windows (Windows 10 or later).
+Windows binary of KKR-FAR can be found [here](http://mmde.is.kit.ac.jp/KKR-FER.zip).
+We are preparing to provide source codes of KKR-FER.
+
+Because KKR-FAR depends on [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace), the following materials are required:
+
+- [64-bit Windows binary of OpenFace](https://github.com/TadasBaltrusaitis/OpenFace/releases/download/OpenFace_2.2.0/OpenFace_2.2.0_win_x64.zip)
+- [Additional model files (*.dat files)](https://github.com/TadasBaltrusaitis/OpenFace/wiki/Model-download)
+
+KKR-FAR works by placing all files contained in KKR-FER.zip in the folder containing the OpenFace executables.
+
+## License
