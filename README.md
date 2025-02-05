@@ -29,3 +29,4 @@ Because KKR-FAR depends on [OpenFace](https://github.com/TadasBaltrusaitis/OpenF
 KKR-FAR works by placing all files contained in KKR-FER.zip in the folder containing the OpenFace executables.
 
 ## License
+For the latest version of license, see [LICENSE](/LICENSE)
