@@ -29,7 +29,7 @@ Because KKR-FAR depends on [OpenFace](https://github.com/TadasBaltrusaitis/OpenF
 - [64-bit Windows binary of OpenFace](https://github.com/TadasBaltrusaitis/OpenFace/releases/download/OpenFace_2.2.0/OpenFace_2.2.0_win_x64.zip)
 - [Additional model files (*.dat files)](https://github.com/TadasBaltrusaitis/OpenFace/wiki/Model-download)
 
-KKR-FAR works by placing all files contained in KKR-FER.zip in the folder containing the OpenFace executables.
+KKR-FAR works by placing all files contained in KKR-FER-r*.zip in the folder containing the OpenFace executables.
 
 ## Citation
 
