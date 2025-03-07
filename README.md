@@ -19,7 +19,10 @@ KKR-FAR is easy to use and will be helpful for the analysis of the estimation re
 
 ## How to use
 Currently, KKR-FAR works only on 64-bit Windows (Windows 10 or later).
-Windows binary of KKR-FAR can be found [here](http://mmde.is.kit.ac.jp/files/KKR-FER.zip) (We are preparing to provide source codes of KKR-FER).
+
+**KKR-FER was updated on March 7, 2025.**
+The latest Windows binary of KKR-FAR can be found [here](http://mmde.is.kit.ac.jp/files/dl.php?download=2) (We are preparing to provide source codes of KKR-FER).
+The new version of KKR-FER requires two model files for the estimation of valence and arousal. The original version of KKR-FER (requires a single model file) is still available from [here](http://mmde.is.kit.ac.jp/files/dl.php?download=1).
 
 Because KKR-FAR depends on [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace), the following materials are required:
 
@@ -28,5 +31,28 @@ Because KKR-FAR depends on [OpenFace](https://github.com/TadasBaltrusaitis/OpenF
 
 KKR-FAR works by placing all files contained in KKR-FER.zip in the folder containing the OpenFace executables.
 
+## Citation
+
+If you use KKR-FER in your research, we ask you to cite the following work.
+
+[H. Nomiya, K. Shimokawa, S. Namba, M. Osumi, and W. Sato, An Artificial Intelligence Model for Sensing Affective Valence and Arousal from Facial Images, Sensors 2025, 25(4), 1188.](https://www.mdpi.com/1424-8220/25/4/1188)
+
 ## License
 For the latest version of the license, see [LICENSE](/LICENSE)
+
+## OpenFace Integration Notice
+
+This project includes OpenFace, a facial behavior analysis toolkit developed by Carnegie Mellon University, University of Cambridge, and University of Southern California.
+
+Important Notice: Non-Commercial and Academic Use Only  
+This software incorporates OpenFace under a "special license agreement with Carnegie Mellon University", allowing for its inclusion in the binary distribution. However, the following restrictions apply:
+
+- "Commercial use is strictly prohibited" unless a separate commercial license is obtained from Carnegie Mellon University.
+- This software is provided for "academic research and non-commercial purposes only".
+- Redistribution of this software is permitted "only under the same license conditions".
+
+For more details regarding OpenFace’s license, please visit:  
+[OpenFace License](https://github.com/TadasBaltrusaitis/OpenFace/blob/master/OpenFace-license.txt)
+
+If you intend to use OpenFace for commercial purposes, please contact Carnegie Mellon University to obtain the necessary licensing:  
+[Flintbox - OpenFace Licensing](https://cmu.flintbox.com/technologies/5c5e7fee-6a24-467b-bb5f-eb2f72119e59)
