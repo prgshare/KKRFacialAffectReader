@@ -4,10 +4,18 @@ SOFTWARE LICENSE AGREEMENT
 This software is licensed for non-commercial use only.
 The use of this software for commercial purposes is prohibited.
 
-The provider of this software makes no representations or warranties, 
-either express or implied, regarding the software's performance or functionality. 
-The provider shall not be held liable for any damages, losses, or consequences 
-arising from the use or inability to use this software, 
-including but not limited to any direct, indirect, incidental, or consequential damages.
+The provider of this software makes no representations or warranties, either express or implied, regarding the software's performance or functionality.
+The provider shall not be held liable for any damages, losses, or consequences arising from the use or inability to use this software, including but not limited to any direct, indirect, incidental, or consequential damages.
+
+This software incorporates OpenFace, a toolkit developed by Carnegie Mellon University, University of Cambridge, and University of Southern California.
+
+License Conditions
+1. "This software includes OpenFace" under a special license agreement obtained from Carnegie Mellon University.
+2. "This software is strictly for academic and non-commercial use only." Commercial use of OpenFace requires a separate commercial license from Carnegie Mellon University.
+3. "Redistribution is allowed only under the same license terms", and OpenFace's license must be included in any distributed version of this software.
+4. "Modification of OpenFace within this software is not permitted" unless explicitly approved by Carnegie Mellon University.
+
+For full licensing terms of OpenFace, please refer to OpenFace License:
+https://github.com/TadasBaltrusaitis/OpenFace/blob/master/OpenFace-license.txt
 
 By using this software, you agree to the terms outlined in this agreement.
