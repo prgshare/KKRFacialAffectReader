@@ -56,3 +56,6 @@ For more details regarding OpenFace’s license, please visit:
 
 If you intend to use OpenFace for commercial purposes, please contact Carnegie Mellon University to obtain the necessary licensing:  
 [Flintbox - OpenFace Licensing](https://cmu.flintbox.com/technologies/5c5e7fee-6a24-467b-bb5f-eb2f72119e59)
+
+## Contact
+If you have any problems, questions, or requests about KKR-FER, please contact us by email: kkr_support#kohinet.com (please replace # with @).
