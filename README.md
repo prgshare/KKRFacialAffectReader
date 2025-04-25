@@ -21,11 +21,11 @@ KKR-FAR is easy to use and will be helpful for the analysis of the estimation re
 Currently, KKR-FAR works only on 64-bit Windows (Windows 10 or later).
 
 **KKR-FER was updated on April 25, 2025.**
-The latest Windows binary of KKR-FAR can be found [here](https://gp1.work/prgshare/dl.php?download=3).
+The latest Windows binary of KKR-FER can be found [here](https://gp1.work/prgshare/dl.php?download=3).
 Estimated valence/arousal values and intensity values of 17 AUs can be exported as a CSV file.
 
 **KKR-FER was updated on March 7, 2025.**
-The previous version of Windows binary of KKR-FAR can be found [here](https://gp1.work/prgshare/dl.php?download=2) (We are preparing to provide source codes of KKR-FER).
+The previous version of Windows binary of KKR-FER can be found [here](https://gp1.work/prgshare/dl.php?download=2) (We are preparing to provide source codes of KKR-FER).
 The new version of KKR-FER requires two model files for the estimation of valence and arousal. The original version of KKR-FER (requires a single model file) is still available from [here](https://gp1.work/prgshare/dl.php?download=1).
 
 Because KKR-FAR depends on [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace), the following materials are required:
